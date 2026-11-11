@@ -11,3 +11,5 @@ Cada archivo del proyecto sirve para lo siguiente:
 - **contactos.txt**: contactos de la agenda.
 - **tareas.txt**: tareas pendientes.
 - **compras.txt**: lista de compras.
+
+Formato de los contactos: Nombre - teléfono - correo.
